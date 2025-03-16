@@ -1,0 +1,24 @@
+File used: 
+https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data?resource=download
+
+Original file:
+https://archive.ics.uci.edu/dataset/45/heart%2Bdisease
+
+Variables description
+
+id: Unique id for each patient
+age: Age of the patient in years
+sex: Male/Female
+dataset: Location of data collection
+cp: Chest pain type [typical angina, atypical angina, non-anginal, asymptomatic]
+trestbps: Resting blood pressure (in mm Hg on admission to the hospital)
+chol: Serum cholesterol in mg/dl
+fbs: Fasting blood sugar (True if > 120 mg/dl)
+restecg: Resting electrocardiographic results [normal, stt abnormality, lv hypertrophy]
+thalach: Maximum heart rate achieved
+exang: Exercise-induced angina (True/ False)
+oldpeak: ST depression induced by exercise relative to rest
+slope: The slope of the peak exercise ST segment
+ca: Number of major vessels (0-3) colored by fluoroscopy
+thal: Thalassemia (a blood disorder that affects hemoglobin production) [normal; fixed defect; reversible defect]
+num: The predicted stage of heart disease 0 is healthy & 4 is the last stage [0, 1, 2, 3, 4]
